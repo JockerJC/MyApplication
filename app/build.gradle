@@ -26,6 +26,7 @@ android {
             res.srcDirs =
                     [
                             'src/main/res/layouts/activity',
+                            'src/main/res/layouts/fragment',
                             'src/main/res/layouts/dialog',
                             'src/main/res/layouts/adapter',
                             'src/main/res'
